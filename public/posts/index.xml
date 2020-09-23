@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ToBeliveBlog</title>
+    <link>yangzhu44.github.io/posts/</link>
+    <description>Recent content in Posts on ToBeliveBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Sep 2020 12:29:52 +0800</lastBuildDate><atom:link href="yangzhu44.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Myaaa</title>
+      <link>yangzhu44.github.io/posts/myaaa/</link>
+      <pubDate>Wed, 23 Sep 2020 12:29:52 +0800</pubDate>
+      
+      <guid>yangzhu44.github.io/posts/myaaa/</guid>
+      <description>asdasdasdasdasdasd</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>yangzhu44.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 23 Sep 2020 10:55:50 +0800</pubDate>
+      
+      <guid>yangzhu44.github.io/posts/my-first-post/</guid>
+      <description>aasdasda1</description>
+    </item>
+    
+  </channel>
+</rss>
